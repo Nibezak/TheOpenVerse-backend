@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Статията ви ще бъде публикувана:',
     'your_posts_received' => 'вашите публикации са получили:',
     'your_profile' => 'Вашият профил',
+    'open_source' => 'Open Source',
     'your_stats' => 'Вашите статистически данни',
     'your_weekly_writer_summary_for' => 'Вашето седмично резюме на писател за',
 ];

@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Votre post sera publié à',
     'your_posts_received' => 'vos messages ont reçu :',
     'your_profile' => 'Votre profil',
+    'open_source' => 'Open Source',
     'your_stats' => 'Vos statistiques',
     'your_weekly_writer_summary_for' => 'Résumé hebdomadaire de',
 ];

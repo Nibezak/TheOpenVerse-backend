@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'نوشته شما منتشر خواهد شد در',
     'your_posts_received' => 'نوشته شما دریافت کرده:',
     'your_profile' => 'پروفایل شما',
+    'open_source' => 'Open Source',
     'your_stats' => 'آمار شما',
     'your_weekly_writer_summary_for' => 'خلاصه هفتگی نویسنده برای',
 ];

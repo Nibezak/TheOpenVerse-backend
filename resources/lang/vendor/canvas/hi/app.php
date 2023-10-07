@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'आपकी पोस्ट प्रकाशित होगी',
     'your_posts_received' => 'आपके पोस्ट प्राप्त हुए:',
     'your_profile' => 'आपकी रूपरेखा',
+    'open_source' => 'Open Source',
     'your_stats' => 'आपके आँकड़े',
     'your_weekly_writer_summary_for' => 'आपका साप्ताहिक लेखक सारांश',
 ];

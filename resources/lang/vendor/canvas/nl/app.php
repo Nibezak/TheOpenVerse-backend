@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Je bericht wordt gepubliceerd op',
     'your_posts_received' => 'uw berichten ontvangen:',
     'your_profile' => 'Jouw profiel',
+    'open_source' => 'Open Source',
     'your_stats' => 'Uw statistieken',
     'your_weekly_writer_summary_for' => 'Je wekelijkse schrijveroverzicht voor',
 ];

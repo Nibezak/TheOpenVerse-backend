@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Your post will publish at',
     'your_posts_received' => 'your posts received:',
     'your_profile' => 'Your profile',
+    'open_source' => 'Open Source',
     'your_stats' => 'Your stats',
     'your_weekly_writer_summary_for' => 'Your weekly writer summary for',
 ];

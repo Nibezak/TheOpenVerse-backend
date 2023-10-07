@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => '您的帖子将发布在',
     'your_posts_received' => '您收到的帖子：',
     'your_profile' => '你的个人资料',
+    'open_source' => 'Open Source',
     'your_stats' => '您的统计',
     'your_weekly_writer_summary_for' => '您的每周作家摘要',
 ];

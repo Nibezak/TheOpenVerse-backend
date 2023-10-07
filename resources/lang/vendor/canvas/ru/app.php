@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Ваша статья будет опубликована',
     'your_posts_received' => 'ваши публикации получили:',
     'your_profile' => 'Ваш профиль',
+    'open_source' => 'Open Source',
     'your_stats' => 'Ваша статистика',
     'your_weekly_writer_summary_for' => 'Ваша еженедельная сводка',
 ];

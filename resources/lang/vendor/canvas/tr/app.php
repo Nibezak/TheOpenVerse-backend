@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Yayınınız şu adreste yayınlanacak:',
     'your_posts_received' => 'gönderileriniz alındı:',
     'your_profile' => 'Senin profil',
+    'open_source' => 'Open Source',
     'your_stats' => 'İstatistikleriniz',
     'your_weekly_writer_summary_for' => 'İçin haftalık yazar özetiniz',
 ];

@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'Pos Anda akan diterbitkan pada',
     'your_posts_received' => 'Pos Anda mendapatkan:',
     'your_profile' => 'Profil Anda',
+    'open_source' => 'Open Source',
     'your_stats' => 'Statistik Anda',
     'your_weekly_writer_summary_for' => 'Ringkasan penulis mingguan Anda untuk',
 ];

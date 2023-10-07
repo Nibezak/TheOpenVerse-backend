@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'سيتم نشر منشورك على',
     'your_posts_received' => 'تم تلقي مشاركاتك:',
     'your_profile' => 'ملفك الشخصي',
+    'open_source' => 'Open Source',
     'your_stats' => 'إحصاءاتك',
     'your_weekly_writer_summary_for' => 'ملخص الكاتب الأسبوعي لـ',
 ];

@@ -149,6 +149,7 @@ return [
     'your_post_will_publish_at' => 'La vostra entrada es publicarà el',
     'your_posts_received' => 'les vostres entrades han rebut:',
     'your_profile' => 'El vostre perfil',
+    'open_source' => 'Open Source',
     'your_stats' => 'Les vostres estadístiques',
     'your_weekly_writer_summary_for' => 'El vostre resum setmanal d\'autor per',
 ];
