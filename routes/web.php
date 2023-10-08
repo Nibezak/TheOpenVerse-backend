@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\OpensourceController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,9 +14,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('source', function () {
+    return view('create-source');
 });
+
+//This is the post rouite for Image file upload on the creator's lounge 
+Route::post("upload",  [OpensourceController::class, 'tempStore']);
 
 Route::prefix('canvas-ui')->group(function () {
     Route::prefix('api')->group(function () {
@@ -131,3 +135,5 @@ Route::prefix('canvas-ui')->group(function () {
          ->where('view', '(.*)')
          ->name('canvas-ui');
 });
+
+
